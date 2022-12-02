@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ganghe74">
+  <img src="https://badges.joonhyung.xyz/codeforces/asdfz1234.svg">
+</center>
+
 <!--
 **ganghe74/ganghe74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
