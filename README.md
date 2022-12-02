@@ -1,10 +1,10 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fganghe74&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<p align="center">  
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fganghe74&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ganghe74">
   <img src="https://badges.joonhyung.xyz/codeforces/asdfz1234.svg">
-</center>
+</p>
 
 <!--
 **ganghe74/ganghe74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
