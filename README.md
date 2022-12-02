@@ -7,10 +7,6 @@
   <a href="https://www.linkedin.com/in/ganghe74/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
-
-![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
-
 <!--
 **ganghe74/ganghe74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
