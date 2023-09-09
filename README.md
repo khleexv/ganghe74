@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 <p align="center">  
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fganghe74&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<!--   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fganghe74&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> -->
   <a href="https://boj.kr/ganghe74"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ganghe74"></a>
   <a href="https://codeforces.com/profile/asdfz1234"><img src="https://badges.joonhyung.xyz/codeforces/asdfz1234.svg"></a>
   <a href="https://atcoder.jp/users/asdfz1234" target="_blank" title="asdfz1234"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fasdfz1234" /></a>
